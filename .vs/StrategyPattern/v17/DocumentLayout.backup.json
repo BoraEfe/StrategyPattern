@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\interfaces\\swimbehavior\\swimwithbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:interfaces\\swimbehavior\\swimwithbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\ducks\\decoyduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:ducks\\decoyduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\ducks\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:ducks\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\ducks\\daanduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:ducks\\daanduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\ducks\\rubberduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:ducks\\rubberduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\ducks\\robertduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:ducks\\robertduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\ducks\\redheadduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:ducks\\redheadduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\ducks\\mallardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:ducks\\mallardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\interfaces\\swimbehavior\\swimbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:interfaces\\swimbehavior\\swimbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\interfaces\\swimbehavior\\sink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:interfaces\\swimbehavior\\sink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\interfaces\\quackbehavior\\squeak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:interfaces\\quackbehavior\\squeak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\interfaces\\flybehavior\\flynoway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:interfaces\\flybehavior\\flynoway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\interfaces\\flybehavior\\flybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:interfaces\\flybehavior\\flybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\interfaces\\quackbehavior\\quackbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:interfaces\\quackbehavior\\quackbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\interfaces\\quackbehavior\\mutequack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:interfaces\\quackbehavior\\mutequack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\interfaces\\quackbehavior\\quackwithmouth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:interfaces\\quackbehavior\\quackwithmouth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\bora efe\\desktop\\strategypattern\\interfaces\\flybehavior\\flywithwings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:interfaces\\flybehavior\\flywithwings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Ducks\\Duck.cs",
+              "RelativeDocumentMoniker": "Ducks\\Duck.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Ducks\\Duck.cs",
+              "RelativeToolTip": "Ducks\\Duck.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:27:46.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwimWithBody.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\SwimBehavior\\SwimWithBody.cs",
+              "RelativeDocumentMoniker": "Interfaces\\SwimBehavior\\SwimWithBody.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\SwimBehavior\\SwimWithBody.cs",
+              "RelativeToolTip": "Interfaces\\SwimBehavior\\SwimWithBody.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:08:12.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RubberDuck.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Ducks\\RubberDuck.cs",
+              "RelativeDocumentMoniker": "Ducks\\RubberDuck.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Ducks\\RubberDuck.cs*",
+              "RelativeToolTip": "Ducks\\RubberDuck.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:27:46.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RobertDuck.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Ducks\\RobertDuck.cs",
+              "RelativeDocumentMoniker": "Ducks\\RobertDuck.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Ducks\\RobertDuck.cs",
+              "RelativeToolTip": "Ducks\\RobertDuck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:17:27.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:27:46.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DecoyDuck.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Ducks\\DecoyDuck.cs",
+              "RelativeDocumentMoniker": "Ducks\\DecoyDuck.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Ducks\\DecoyDuck.cs*",
+              "RelativeToolTip": "Ducks\\DecoyDuck.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:27:46.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RedheadDuck.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Ducks\\RedheadDuck.cs",
+              "RelativeDocumentMoniker": "Ducks\\RedheadDuck.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Ducks\\RedheadDuck.cs*",
+              "RelativeToolTip": "Ducks\\RedheadDuck.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:27:46.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MallardDuck.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Ducks\\MallardDuck.cs",
+              "RelativeDocumentMoniker": "Ducks\\MallardDuck.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Ducks\\MallardDuck.cs*",
+              "RelativeToolTip": "Ducks\\MallardDuck.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:27:46.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DaanDuck.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Ducks\\DaanDuck.cs",
+              "RelativeDocumentMoniker": "Ducks\\DaanDuck.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Ducks\\DaanDuck.cs",
+              "RelativeToolTip": "Ducks\\DaanDuck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:29:36.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SwimBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\SwimBehavior\\SwimBehavior.cs",
+              "RelativeDocumentMoniker": "Interfaces\\SwimBehavior\\SwimBehavior.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\SwimBehavior\\SwimBehavior.cs",
+              "RelativeToolTip": "Interfaces\\SwimBehavior\\SwimBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:55:32.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sink.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\SwimBehavior\\Sink.cs",
+              "RelativeDocumentMoniker": "Interfaces\\SwimBehavior\\Sink.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\SwimBehavior\\Sink.cs",
+              "RelativeToolTip": "Interfaces\\SwimBehavior\\Sink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:08:22.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Squeak.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\QuackBehavior\\Squeak.cs",
+              "RelativeDocumentMoniker": "Interfaces\\QuackBehavior\\Squeak.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\QuackBehavior\\Squeak.cs",
+              "RelativeToolTip": "Interfaces\\QuackBehavior\\Squeak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:02:16.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FlyNoWay.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\FlyBehavior\\FlyNoWay.cs",
+              "RelativeDocumentMoniker": "Interfaces\\FlyBehavior\\FlyNoWay.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\FlyBehavior\\FlyNoWay.cs",
+              "RelativeToolTip": "Interfaces\\FlyBehavior\\FlyNoWay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:04:49.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FlyBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\FlyBehavior\\FlyBehavior.cs",
+              "RelativeDocumentMoniker": "Interfaces\\FlyBehavior\\FlyBehavior.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\FlyBehavior\\FlyBehavior.cs",
+              "RelativeToolTip": "Interfaces\\FlyBehavior\\FlyBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:27:46.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuackBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\QuackBehavior\\QuackBehavior.cs",
+              "RelativeDocumentMoniker": "Interfaces\\QuackBehavior\\QuackBehavior.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\QuackBehavior\\QuackBehavior.cs",
+              "RelativeToolTip": "Interfaces\\QuackBehavior\\QuackBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:27:46.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MuteQuack.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\QuackBehavior\\MuteQuack.cs",
+              "RelativeDocumentMoniker": "Interfaces\\QuackBehavior\\MuteQuack.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\QuackBehavior\\MuteQuack.cs",
+              "RelativeToolTip": "Interfaces\\QuackBehavior\\MuteQuack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:59:46.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuackWithMouth.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\QuackBehavior\\QuackWithMouth.cs",
+              "RelativeDocumentMoniker": "Interfaces\\QuackBehavior\\QuackWithMouth.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\QuackBehavior\\QuackWithMouth.cs",
+              "RelativeToolTip": "Interfaces\\QuackBehavior\\QuackWithMouth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:08:46.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FlyWithWings.cs",
+              "DocumentMoniker": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\FlyBehavior\\FlyWithWings.cs",
+              "RelativeDocumentMoniker": "Interfaces\\FlyBehavior\\FlyWithWings.cs",
+              "ToolTip": "C:\\Users\\Bora Efe\\Desktop\\StrategyPattern\\Interfaces\\FlyBehavior\\FlyWithWings.cs",
+              "RelativeToolTip": "Interfaces\\FlyBehavior\\FlyWithWings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:03:50.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

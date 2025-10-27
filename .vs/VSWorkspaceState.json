@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Ducks",
+    "\\Interfaces",
+    "\\Interfaces\\FlyBehavior",
+    "\\Interfaces\\QuackBehavior",
+    "\\Interfaces\\SwimBehavior"
+  ],
+  "SelectedNode": "\\StrategyPattern.sln",
+  "PreviewInSolutionExplorer": false
+}
